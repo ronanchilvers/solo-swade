@@ -1,13 +1,10 @@
 ---
 created: 2023-07-07 11:29
 ---
-![[adventure banner here.jpg]]
+![[home.jpg]]
+![[swade.png|right|250]]
 
-<!-- Choose a logo to suit the system you're using -->
-![[cypher-system.png|right|150]]
-![[tiny-dungeon-2e.webp|right|150]]
-
-> [!abstract]- The Adventure Seed
+> [!abstract]- Starting Scene
 > Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
 
 # Maps
