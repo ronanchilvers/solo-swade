@@ -48,6 +48,8 @@ Outsider (minor) ^yVR0Ly1E
 
 Curious (major) ^KCLSq5GC
 
+Shamed (major) ^lI2jgQFe
+
 
 # Embedded files
 185272d105fd32f93e2c7987aa4df06042f0f538: [[SWADE_Generic_Character_Sheet.pdf#page=1]]
@@ -902,7 +904,7 @@ Curious (major) ^KCLSq5GC
 			"id": "KCLSq5GC",
 			"type": "text",
 			"x": 284.32679025772075,
-			"y": -481.5256746716696,
+			"y": -483.4794460852025,
 			"width": 118.25590515136719,
 			"height": 20,
 			"angle": 0,
@@ -917,11 +919,11 @@ Curious (major) ^KCLSq5GC
 			"frameId": null,
 			"roundness": null,
 			"seed": 1949605067,
-			"version": 18,
-			"versionNonce": 536054469,
+			"version": 28,
+			"versionNonce": 1506376331,
 			"isDeleted": false,
 			"boundElements": null,
-			"updated": 1694375399103,
+			"updated": 1694375620646,
 			"link": null,
 			"locked": false,
 			"text": "Curious (major)",
@@ -933,6 +935,43 @@ Curious (major) ^KCLSq5GC
 			"baseline": 14,
 			"containerId": null,
 			"originalText": "Curious (major)",
+			"lineHeight": 1.25
+		},
+		{
+			"id": "lI2jgQFe",
+			"type": "text",
+			"x": 284.10252671735407,
+			"y": -465.55578320187186,
+			"width": 118.12791442871094,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 139025797,
+			"version": 54,
+			"versionNonce": 41908005,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1694375615890,
+			"link": null,
+			"locked": false,
+			"text": "Shamed (major)",
+			"rawText": "Shamed (major)",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "Shamed (major)",
 			"lineHeight": 1.25
 		},
 		{
