@@ -46,6 +46,8 @@ Low Light Vision ^MuipDGb1
 
 Outsider (minor) ^yVR0Ly1E
 
+Curious (major) ^KCLSq5GC
+
 
 # Embedded files
 185272d105fd32f93e2c7987aa4df06042f0f538: [[SWADE_Generic_Character_Sheet.pdf#page=1]]
@@ -897,6 +899,43 @@ Outsider (minor) ^yVR0Ly1E
 			"lineHeight": 1.25
 		},
 		{
+			"id": "KCLSq5GC",
+			"type": "text",
+			"x": 284.32679025772075,
+			"y": -481.5256746716696,
+			"width": 118.25590515136719,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1949605067,
+			"version": 18,
+			"versionNonce": 536054469,
+			"isDeleted": false,
+			"boundElements": null,
+			"updated": 1694375399103,
+			"link": null,
+			"locked": false,
+			"text": "Curious (major)",
+			"rawText": "Curious (major)",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "Curious (major)",
+			"lineHeight": 1.25
+		},
+		{
 			"type": "text",
 			"version": 211,
 			"versionNonce": 194319173,
@@ -1339,6 +1378,43 @@ Outsider (minor) ^yVR0Ly1E
 			"originalText": "Suspicious (minor)",
 			"lineHeight": 1.25,
 			"baseline": 14
+		},
+		{
+			"id": "ac1PlJoQ",
+			"type": "text",
+			"x": 283.03768465337447,
+			"y": -479.123657150726,
+			"width": 8,
+			"height": 20,
+			"angle": 0,
+			"strokeColor": "#1e1e1e",
+			"backgroundColor": "transparent",
+			"fillStyle": "hachure",
+			"strokeWidth": 1,
+			"strokeStyle": "solid",
+			"roughness": 1,
+			"opacity": 100,
+			"groupIds": [],
+			"frameId": null,
+			"roundness": null,
+			"seed": 1655314667,
+			"version": 2,
+			"versionNonce": 1441418917,
+			"isDeleted": true,
+			"boundElements": null,
+			"updated": 1694375226271,
+			"link": null,
+			"locked": false,
+			"text": "",
+			"rawText": "",
+			"fontSize": 16,
+			"fontFamily": 1,
+			"textAlign": "left",
+			"verticalAlign": "top",
+			"baseline": 14,
+			"containerId": null,
+			"originalText": "",
+			"lineHeight": 1.25
 		}
 	],
 	"appState": {
@@ -1356,10 +1432,10 @@ Outsider (minor) ^yVR0Ly1E
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 102.70147364093253,
-		"scrollY": 787.4718567250366,
+		"scrollX": 202.96683540694488,
+		"scrollY": 805.787175697245,
 		"zoom": {
-			"value": 1.4500000000000004
+			"value": 1.3033655082913516
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
