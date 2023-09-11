@@ -12,5 +12,6 @@
   },
   "mobilePullAction": "switcher:open",
   "alwaysUpdateLinks": true,
-  "promptDelete": false
+  "promptDelete": false,
+  "propertiesInDocument": "hidden"
 }
