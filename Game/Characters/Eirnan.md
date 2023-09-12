@@ -2901,10 +2901,10 @@ Jacket ^oVPu5g3f
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": -83.16007552696442,
-		"scrollY": 762.3069973327689,
+		"scrollX": 51.93557633590274,
+		"scrollY": 799.7369722598974,
 		"zoom": {
-			"value": 2.1067944007270496
+			"value": 1.1567944007270492
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
