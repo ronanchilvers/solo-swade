@@ -1,25 +1,11 @@
 ---
 created: 2023-07-07 11:29
 ---
-![[home.jpg]]
+![[zephyria.jpg]]
 ![[swade.png|right|250]]
 
 > [!abstract]- Starting Scene
 > Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
-
-# Maps
-```button
-name Create new map
-type command
-action Quickadd: New Map
-```
-^button-new-map
-```dataview
-List 
-From -"_templates"
-Where contains(file.tags, "map")
-Sort file.name
-```
 
 # Scenes
 ```button
@@ -35,6 +21,20 @@ Where contains(file.tags, "scene")
 Sort file.name desc
 ```
 
+# Maps
+```button
+name Create new map
+type command
+action Quickadd: New Map
+```
+^button-new-map
+```dataview
+List 
+From -"_templates"
+Where contains(file.tags, "map")
+Sort file.name
+```
+
 # Characters
 ```button
 name Create new character
@@ -47,6 +47,19 @@ List
 From -"_templates"
 Where contains(file.tags, "character")
 Sort file.name
+```
+
+# NPCs
+```button
+name Create new npc
+type command
+action Quickadd: New NPC
+```
+^button-new-npc
+```dataview
+List summary
+From -"_templates"
+Where contains(file.tags, "npc")
 ```
 
 # Creatures
@@ -85,7 +98,7 @@ action Quickadd: New Place
 ```
 ^button-new-place
 ```dataview
-List 
+List summary 
 From -"_templates"
 Where contains(file.tags, "place")
 Sort file.name
