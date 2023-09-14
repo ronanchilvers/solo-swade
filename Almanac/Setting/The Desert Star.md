@@ -2,6 +2,7 @@
 created: 2023-09-12 22:11
 tags: [setting]
 ---
+![[desert-star.jpg]]
 The "Desert Star" is a mesmerizing and radiant gemstone that is as beautiful as it is powerful. It has a deep, translucent amber hue, reminiscent of the warm, golden sands of the Aridian Wastes. The gem is typically cut into a multifaceted, star-shaped design, with each facet reflecting and refracting light in all directions, creating an entrancing play of colors and patterns.
 
 When exposed to sunlight or magical illumination, the "Desert Star" seems to come alive, emitting a dazzling display of fiery, reddish-orange and golden hues that dance within its core. The gem's surface may bear intricate, sunburst-like patterns that further enhance its resemblance to a star.
