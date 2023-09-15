@@ -4,8 +4,8 @@ created: 2023-07-07 11:29
 ![[zephyria.jpg]]
 ![[swade.png|right|250]]
 
-> [!abstract]- Starting Scene
-> Add the adventure seed here. Give a rough overview of the general plot - what's happening, what the characters are supposed to do, etc
+> [!abstract] Starting Scene
+> Zafira Al'Shara, Rakim's patron, has discovered an old map which she believes gives the location of an ancient treasure - the "Desert Star", a magical jewel. She has given Rakim the job of following the map and finding out if it really does lead to the Star or something else entirely.
 
 # Scenes
 ```button
