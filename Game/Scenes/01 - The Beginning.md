@@ -9,6 +9,9 @@ tags: [scene]
 > **Chaos Factor:** 5
 > **Scene Type:** Expected 
 
+> [!question] Thread
+> - [ ] #thread  Travel to the Amber Dunes
+
 - [[Rakim]] sets off across the desert towards the [[Amber Dunes]]
 	- He is following a spice road
 	- He is riding his camel [[Faris]] and also has a pack camel, [[Elgiva]]
@@ -94,7 +97,7 @@ tags: [scene]
 > **Random Event:** None
 
 > [!info] Sandstorm
-> While Rakim rests, some miles to the north, a wind begins to pick up. Soon the wind has become a gale and the sands of the [[Amber Dunes]] begin to shift and move. The storm rises, torrents of wind blown sand billowing upwards to form a moving wall. The massive sandstorm tears southwards across the desert plains.
+> While Rakim rests, many miles to the north, a wind begins to pick up. Soon the wind has become a gale and the sands of the [[Amber Dunes]] begin to shift and move. The storm rises, torrents of windblown sand billowing upwards to form a moving wall. The massive sandstorm tears southwards across the desert plains.
 
 > [!roll] Test - Does Rakim wake up before the storm arrives in earnest?
 > **Result:** Notice - 3
@@ -123,7 +126,7 @@ tags: [scene]
 
 - He rides hard but begins to feel the wind at his back
 - Sand begins to whip up ahead of him as he gallops
-- They reach the rocks as the first blasts of the sandstorm hit them, pelting them fierce torrents of grit
+- They reach the rocks as the first blasts of the sandstorm hit them, pelting them with fierce torrents of grit
 - Rakim struggles to lead the two camels in among the rocks
 
 > [!roll] Test - Pull the two camels in among the rocks
@@ -157,10 +160,11 @@ tags: [scene]
 - He climbs down, retrieves the camels and after checking their cargo he mounts and sets off
 
 ***END***
-> [!help]- Experience Points
-> - 1 for the group as a whole for good roleplay. 
-> - 1 for the group as a whole for defeating enemies (not per 
-enemy, just if they defeated any enemies).
-> - 1 for the group as a whole for advancing the plot and their goals.
+> [!help] Advance
+> - Gain a new Edge.
+> - Increase a skill that is equal to or greater  than its linked attribute one die type.
+> - Increase two skills that are lower than  their linked attributes by one die type each  (including new skills the character didn’t  have before at d4).
+> - Increase one attribute by a die type. This option may only be taken once per Rank  (see Rank, below). Legendary characters  may raise an attribute every other Advance,  up to the racial maximum.
+> - Permanently remove a Minor Hindrance,  or reduce a Major Hindrance to a Minor (if  possible).
 
-Experience (per character): 2
+Gain 1 advance
