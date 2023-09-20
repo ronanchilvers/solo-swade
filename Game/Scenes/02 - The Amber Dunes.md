@@ -7,4 +7,4 @@ tags: [scene]
 > **Location:** 
 > **Weather:** Fair
 > **Chaos Factor:** 5
-> **Scene Type:** Interrupted 
+> **Scene Type:** Interrupted
