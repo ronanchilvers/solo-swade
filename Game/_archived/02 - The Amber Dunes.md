@@ -1,7 +1,9 @@
 ---
 created: 2023-09-20 21:05
 gme: mythic
-tags: [scene]
+tags: [archived,scene]
+banner: "![[session.jpg]]"
+banner_lock: true
 ---
 > [!scene] 
 > **Location:** 

@@ -18,7 +18,7 @@ action Quickadd: New Scene
 ```dataview
 List
 From -"_templates"
-Where contains(file.tags, "scene") 
+Where contains(file.tags, "scene") and !contains(file.tags, "archived")
 Sort file.name desc
 ```
 

@@ -1,7 +1,9 @@
 ---
 created: 2023-09-12 20:40
 gme: mythic
-tags: [scene]
+tags: [archived,scene]
+banner: "![[session.jpg]]"
+banner_lock: true
 ---
 > [!scene] Rakim heads out of Zephyria to the [[Amber Dunes]], the first waypoint on his route
 > **Location:** Zephyria 
@@ -153,7 +155,7 @@ tags: [scene]
 - To Rakim's relief the storm blows it self out within the hour - it was violent but short lived
 - He climbs the rock to make sure of where he is
 
-> - [!roll] Test - Determine his position
+> [!roll] Test - Determine his position
 > **Result:** Survival - 5
 
 - He manages to work out the way back to the roadway he was following 
