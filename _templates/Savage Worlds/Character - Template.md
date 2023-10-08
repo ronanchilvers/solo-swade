@@ -41,7 +41,15 @@ tags: [swade,character]
 > 
 > | Name | Damage | Reach / Range | Notes |
 > |-|-|-|-|
-> | Weapon 1 | 1d6 | Mele 
+> | Weapon 1 | Str+d6 | Melee | Notes for weapon 1 |
+> | Weapon 2 | 2d6 | 12/24/48 | Notes for weapon 2 | 
+
+> [!abstract] Powers
+> **Power Points:** 10
+> 
+> | Name | PP | Range | Duration | Effect | Trappings |
+> |-|-|-|-|-|-|
+> | Power 1 | 1 | Smarts | Instantaneous |  Effect 1 | Trappings 1 |
 
 > [!abstract] Gear
 > 
@@ -49,3 +57,24 @@ tags: [swade,character]
 > |-|-|
 > | Item 1 | Notes for Item 1 |
 > | Item 2 | Notes for Item 2 |
+
+> [!abstract] Advances
+> - **N:** 
+> - **N:** 
+> - **N:** 
+> - **S:** 
+> - **S:** 
+> - **S:** 
+> - **S:** 
+> - **V:** 
+> - **V:** 
+> - **V:** 
+> - **V:** 
+> - **H:** 
+> - **H:** 
+> - **H:** 
+> - **H:** 
+> - **L:** 
+> - **L:** 
+> - **L:** 
+> - **L:** 
