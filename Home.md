@@ -22,20 +22,6 @@ Where contains(file.tags, "scene") and !contains(file.tags, "archived")
 Sort file.name desc
 ```
 
-# Maps
-```button
-name Create new map
-type command
-action Quickadd: New Map
-```
-^button-new-map
-```dataview
-List 
-From -"_templates"
-Where contains(file.tags, "map") and !contains(file.tags, "archived")
-Sort file.name
-```
-
 # Characters
 ```button
 name Create new character
@@ -50,9 +36,7 @@ Where contains(file.tags, "character") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
-# NPCs, Places, Creatures and Maps
-
-`button-new-npc``button-new-place``button-new-creature``button-new-map`
+# NPCs, Places, Creatures, Settings and Maps
 
 ```page-gallery
 filter: false
@@ -66,6 +50,9 @@ views:
 - name: Places
   from: '-"_templates"'
   where: 'contains(file.tags, "place") and !contains(file.tags, "archived")'
+- name: Setting Details
+  from: '-"_templates"'
+  where: 'contains(file.tags, "setting") and !contains(file.tags, "archived")'
 - name: Creatures
   from: '-"_templates"'
   where: 'contains(file.tags, "creature") and !contains(file.tags, "archived")'
@@ -74,19 +61,40 @@ views:
   where: 'contains(file.tags, "map") and !contains(file.tags, "archived")'
 ```
 
-# Creatures
+```button
+name Create new npc
+type command
+action Quickadd: New NPC
+```
+^button-new-npc
+
 ```button
 name Create new creature
 type command
 action Quickadd: New Creature
 ```
 ^button-new-creature
-```dataview
-List
-From -"_templates"
-Where contains(file.tags, "creature") and !contains(file.tags, "archived")
-Sort file.name
+
+```button
+name Create new place
+type command
+action Quickadd: New Place
 ```
+^button-new-place
+
+```button
+name Create new map
+type command
+action Quickadd: New Map
+```
+^button-new-map
+
+```button
+name Create new setting detail
+type command
+action Quickadd: New Setting
+```
+^button-new-setting
 
 # Setting
 ```button
@@ -99,20 +107,6 @@ action Quickadd: New Setting
 List 
 From -"_templates"
 Where contains(file.tags, "setting") and !contains(file.tags, "archived")
-Sort file.name
-```
-
-# Places
-```button
-name Create new place
-type command
-action Quickadd: New Place
-```
-^button-new-place
-```dataview
-List summary 
-From -"_templates"
-Where contains(file.tags, "place") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
