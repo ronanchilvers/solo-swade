@@ -59,15 +59,19 @@ action Quickadd: New NPC
 ^button-new-npc
 ```page-gallery
 filter: false
-debug: false
-position: left
 orientation: square
 fields:
-- 
+- file.name
 views:
 - name: NPCs
   from: '-"_templates"'
   where: 'contains(file.tags, "npc") and !contains(file.tags, "archived")'
+- name: Maps
+  from: '-"_templates"'
+  where: 'contains(file.tags, "map") and !contains(file.tags, "archived")'
+- name: Places
+  from: '-"_templates"'
+  where: 'contains(file.tags, "place") and !contains(file.tags, "archived")'
 ```
 
 # Creatures
