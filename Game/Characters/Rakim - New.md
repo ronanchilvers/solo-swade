@@ -1,12 +1,12 @@
 ---
-created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
+created: 2023-10-08 10:31
 tags: [swade,character]
 ---
 >[!abstract] Basics
 >
-> - **Name:** 
-> - **Concept:**
-> - **Race:**
+> - **Name:** Rakim
+> - **Concept:** Wandering Explorer
+> - **Race:** Half Elf
 
 `class: track`
 > [!abstract] Bennies
@@ -18,30 +18,34 @@ tags: [swade,character]
 >
 > | Agility | Smarts | Spirit | Strength | Vigor |
 > |-|-|-|-|-|
-> | d4 | d4 | d4 | d4 | d4 |
+> | d6 | d10 | d6 | d4 | d6 |
 
 > [!abstract] Derived Attributes
 > 
 > | Parry | Toughness | Pace |
 > |-|-|-|
-> | 4 | 4 (0) | 6 |
+> | 5 | 5 (0) | 6 |
 
 > [!abstract] Hindrances
-> - Hindrance 1
-> - Hindrance 2
+> - Outsider (minor)
+> - Curious (major)
+> - Shamed (major)
 
 > [!abstract] Starting / Racial Edges
-> - Edge 1
-> - Edge 2
+> - Alertness - +2 Notice
+> - Low Light Vision
+> - Arcane Background - Psionics
 
 > [!abstract] Skills
 > - **Athletics:** d4
 > - **Common Knowledge:** d4
-> - **Notice:** d4
+> - **Notice:** d6+2
 > - **Persuasion:** d4
 > - **Stealth:** d4
-> - Additional Skill 1: d4
-> - Additional Skill 2: d4
+> - Psionics: d10
+> - Fighting: d6
+> - Shooting: d8
+> - Survival: d8
 
 > [!abstract] Weapons
 > 

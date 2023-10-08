@@ -94,8 +94,8 @@
       "id": "86ba3865-786b-4c4e-a272-5f511131e8e1",
       "name": "New Character",
       "type": "Template",
-      "command": false,
-      "templatePath": "_templates/Tiny Dungeon/Character - Template.md",
+      "command": true,
+      "templatePath": "_templates/Savage Worlds/Character - Template.md",
       "fileNameFormat": {
         "enabled": false,
         "format": ""
