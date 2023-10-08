@@ -2630,8 +2630,8 @@ Notice to d6 ^YXOw4RIl
 		},
 		{
 			"type": "text",
-			"version": 192,
-			"versionNonce": 2000394655,
+			"version": 193,
+			"versionNonce": 1225613700,
 			"isDeleted": false,
 			"id": "xRZSxro2",
 			"fillStyle": "hachure",
@@ -2639,7 +2639,7 @@ Notice to d6 ^YXOw4RIl
 			"strokeStyle": "solid",
 			"roughness": 1,
 			"opacity": 100,
-			"angle": 0,
+			"angle": 6.245404332864282,
 			"x": 801.5254964292163,
 			"y": -150.0505953418144,
 			"strokeColor": "#1e1e1e",
@@ -2651,7 +2651,7 @@ Notice to d6 ^YXOw4RIl
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695240171108,
+			"updated": 1696706162707,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2940,10 +2940,10 @@ Notice to d6 ^YXOw4RIl
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 15.168424136527554,
-		"scrollY": 741.1729209592895,
+		"scrollX": 30.212603172419616,
+		"scrollY": 811.5920242520542,
 		"zoom": {
-			"value": 1.214601331705156
+			"value": 1.180997143185276
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
