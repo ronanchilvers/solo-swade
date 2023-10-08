@@ -154,7 +154,7 @@
       "id": "d64b0124-86cc-43fd-835a-47aa4f7bcf54",
       "name": "New Creature",
       "type": "Template",
-      "command": false,
+      "command": true,
       "templatePath": "_templates/Tiny Dungeon/Creature - Template.md",
       "fileNameFormat": {
         "enabled": false,
@@ -215,7 +215,7 @@
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
-  "announceUpdates": false,
+  "announceUpdates": true,
   "version": "1.2.1",
   "disableOnlineFeatures": true,
   "ai": {
