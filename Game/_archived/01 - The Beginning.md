@@ -15,7 +15,7 @@ banner_lock: true
 > [!question] Thread
 > - [ ] #thread  Travel to the Amber Dunes
 
-- [[Rakim]] sets off across the desert towards the [[Amber Dunes]]
+- [[Rakim - Old]] sets off across the desert towards the [[Amber Dunes]]
 	- He is following a spice road
 	- He is riding his camel [[Faris]] and also has a pack camel, [[Elgiva]]
 	- He has enough food for a couple of weeks travel and plenty of water
@@ -41,7 +41,7 @@ banner_lock: true
 > [!roll] Test - Stealth
 > **Result:** 5
 
-- [[Rakim]] rides slowly behind the camel train for a while before urging Faris into a faster trot and catching it up
+- [[Rakim - Old]] rides slowly behind the camel train for a while before urging Faris into a faster trot and catching it up
 - The camel train riders seem to be unaware of him until he calls out to them
 - The rearmost rider jumps, turns in his saddle and seeing Rakim approaching, shouts to the others
 	- They immediately rouse their camels into a run

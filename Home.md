@@ -20,7 +20,7 @@ fields:
 views:
 - name: Characters
   from: '-"_templates"'
-  where: 'contains(file.tags, "scene") and !contains(file.tags, "archived1")'
+  where: 'contains(file.tags, "scene") and !contains(file.tags, "archived")'
 ```
 
 # Characters
@@ -35,7 +35,7 @@ fields:
 views:
 - name: Characters
   from: '-"_templates"'
-  where: 'contains(file.tags, "character") and !contains(file.tags, "archived1")'
+  where: 'contains(file.tags, "character") and !contains(file.tags, "archived")'
 ```
 
 # Other stuff
