@@ -4,6 +4,7 @@ excalidraw-plugin: parsed
 tags: [excalidraw,character]
 
 ---
+![[zephyria.jpg]]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 

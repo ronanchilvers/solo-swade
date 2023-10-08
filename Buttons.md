@@ -1,4 +1,11 @@
 ```button
+name Create new character
+type command
+action Quickadd: New Character
+```
+^button-character
+
+```button
 name Create new scene
 type command
 action Quickadd: New Scene

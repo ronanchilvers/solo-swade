@@ -9,17 +9,12 @@ banner_y: 0.97999
 > Zafira Al'Shara, Rakim's patron, has discovered an old map which she believes gives the location of an ancient treasure - the "Desert Star", a magical jewel. She has given Rakim the job of following the map and finding out if it really does lead to the Star or something else entirely.
 
 # Scenes
-```button
-name Create new scene
-type command
-action Quickadd: New Scene
-```
-^button-scene
+`button-scene`
 
 ```page-gallery
 filter: false
-orientation: landscape
-columns: 2
+orientation: square
+columns: 3
 fields:
 - file.name
 views:
@@ -29,17 +24,12 @@ views:
 ```
 
 # Characters
-```button
-name Create new character
-type command
-action Quickadd: New Character
-```
-^button-new-character
+`button-character`
 
 ```page-gallery
 filter: false
-orientation: landscape
-columns: 2
+orientation: square
+columns: 3
 fields:
 - file.name
 views:
@@ -53,9 +43,8 @@ views:
 
 ```page-gallery
 filter: false
-orientation: landscape
-columns: 2
-position: top
+orientation: square
+columns: 3
 fields:
 - file.name
 views:
