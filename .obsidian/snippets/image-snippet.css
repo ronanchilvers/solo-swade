@@ -10,3 +10,6 @@ img[alt*="left"] {
     margin: 0 1rem 1rem 0;
     box-shadow: none;
 }
+img[alt*="hide"] {
+    display: none;
+}

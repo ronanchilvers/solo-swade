@@ -8,37 +8,7 @@ banner_y: 0.97999
 > [!abstract] Starting Scene
 > Zafira Al'Shara, Rakim's patron, has discovered an old map which she believes gives the location of an ancient treasure - the "Desert Star", a magical jewel. She has given Rakim the job of following the map and finding out if it really does lead to the Star or something else entirely.
 
-# Scenes
-```button
-name Create new scene
-type command
-action Quickadd: New Scene
-```
-^button-new-scene
-```dataview
-List
-From -"_templates"
-Where contains(file.tags, "scene") and !contains(file.tags, "archived")
-Sort file.name desc
-```
-
-# Characters
-```button
-name Create new character
-type command
-action Quickadd: New Character
-```
-^button-new-character
-```dataview
-List 
-From -"_templates"
-Where contains(file.tags, "character") and !contains(file.tags, "archived")
-Sort file.name
-```
-
-# NPCs, Places, Creatures, Settings and Maps
-
-`button-npc` `button-place` `button-place` `button-map` `button-setting`
+`button-scene` `button-npc` `button-place` `button-setting` `button-creature` `button-map`
 
 ```page-gallery
 filter: false
@@ -46,6 +16,9 @@ orientation: square
 fields:
 - file.name
 views:
+- name: Scenes
+  from: '-"_templates"'
+  where: 'contains(file.tags, "scene") and !contains(file.tags, "archived1")'
 - name: NPCs
   from: '-"_templates"'
   where: 'contains(file.tags, "npc") and !contains(file.tags, "archived")'
@@ -63,17 +36,17 @@ views:
   where: 'contains(file.tags, "map") and !contains(file.tags, "archived")'
 ```
 
-# Setting
+# Characters
 ```button
-name Create new setting detail
+name Create new character
 type command
-action Quickadd: New Setting
+action Quickadd: New Character
 ```
-^button-new-setting
+^button-new-character
 ```dataview
 List 
 From -"_templates"
-Where contains(file.tags, "setting") and !contains(file.tags, "archived")
+Where contains(file.tags, "character") and !contains(file.tags, "archived")
 Sort file.name
 ```
 

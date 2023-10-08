@@ -5,6 +5,7 @@ tags: [archived,scene]
 banner: "![[session.jpg]]"
 banner_lock: true
 ---
+![[session.jpg|hide]]
 > [!scene] 
 > **Location:** 
 > **Weather:** Fair

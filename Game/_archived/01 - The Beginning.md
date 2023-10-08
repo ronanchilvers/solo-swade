@@ -5,6 +5,7 @@ tags: [archived,scene]
 banner: "![[session.jpg]]"
 banner_lock: true
 ---
+![[session.jpg|hide]]
 > [!scene] Rakim heads out of Zephyria to the [[Amber Dunes]], the first waypoint on his route
 > **Location:** Zephyria 
 > **Weather:** Night time - warm and clear

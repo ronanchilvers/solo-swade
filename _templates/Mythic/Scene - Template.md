@@ -5,6 +5,7 @@ tags: [scene]
 banner: "![[session.jpg]]"
 banner_lock: true
 ---
+![[session.jpg|hide]]
 > [!scene] <% tp.file.cursor(1) %>
 > **Location:** 
 > **Weather:** Fair

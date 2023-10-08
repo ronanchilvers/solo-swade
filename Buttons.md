@@ -1,3 +1,9 @@
+```button
+name Create new scene
+type command
+action Quickadd: New Scene
+```
+^button-scene
 
 ```button
 name Create new npc
