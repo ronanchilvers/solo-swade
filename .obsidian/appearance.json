@@ -5,7 +5,8 @@
     "image-snippet",
     "encounter-snippet",
     "callouts-snippet",
-    "tracks"
+    "tracks",
+    "page-gallery-snippet"
   ],
   "theme": "obsidian",
   "baseFontSize": 18,

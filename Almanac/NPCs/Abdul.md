@@ -4,3 +4,4 @@ tags: [npc]
 aliases:
 summary: Banal Monk who Abducts The Oppressed
 ---
+![[abdul.jpg|right|400]]

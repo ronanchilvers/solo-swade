@@ -50,11 +50,16 @@ Where contains(file.tags, "character") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
-# NPCs
+# NPCs, Places, Creatures and Maps
 ```button
 name Create new npc
 type command
 action Quickadd: New NPC
+```
+```button
+name Create new creature
+type command
+action Quickadd: New Creature
 ```
 ^button-new-npc
 ```page-gallery
@@ -66,20 +71,19 @@ views:
 - name: NPCs
   from: '-"_templates"'
   where: 'contains(file.tags, "npc") and !contains(file.tags, "archived")'
-- name: Maps
-  from: '-"_templates"'
-  where: 'contains(file.tags, "map") and !contains(file.tags, "archived")'
 - name: Places
   from: '-"_templates"'
   where: 'contains(file.tags, "place") and !contains(file.tags, "archived")'
+- name: Creatures
+  from: '-"_templates"'
+  where: 'contains(file.tags, "creature") and !contains(file.tags, "archived")'
+- name: Maps
+  from: '-"_templates"'
+  where: 'contains(file.tags, "map") and !contains(file.tags, "archived")'
 ```
 
 # Creatures
-```button
-name Create new creature
-type command
-action Quickadd: New Creature
-```
+
 ^button-new-creature
 ```dataview
 List
