@@ -2,7 +2,8 @@
 
 excalidraw-plugin: parsed
 tags: [excalidraw,character]
-
+pageGallery:
+  orientation: landscape
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
