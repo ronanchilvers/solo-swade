@@ -215,7 +215,7 @@
   "inputPrompt": "single-line",
   "devMode": false,
   "templateFolderPath": "",
-  "announceUpdates": true,
+  "announceUpdates": false,
   "version": "1.2.1",
   "disableOnlineFeatures": true,
   "ai": {
