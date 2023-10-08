@@ -2927,7 +2927,7 @@ Notice to d6 ^YXOw4RIl
 	],
 	"appState": {
 		"theme": "light",
-		"viewBackgroundColor": "#fffce8",
+		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
 		"currentItemFillStyle": "hachure",
@@ -2940,16 +2940,16 @@ Notice to d6 ^YXOw4RIl
 		"currentItemTextAlign": "left",
 		"currentItemStartArrowhead": null,
 		"currentItemEndArrowhead": "arrow",
-		"scrollX": 757.7507508966584,
-		"scrollY": 890.772465594499,
+		"scrollX": 100.58408422999162,
+		"scrollY": 888.04763920561,
 		"zoom": {
-			"value": 0.45
+			"value": 1
 		},
 		"currentItemRoundness": "round",
 		"gridSize": null,
 		"gridColor": {
-			"Bold": "#FFEE7DFF",
-			"Regular": "#FFF7C4FF"
+			"Bold": "#C9C9C9FF",
+			"Regular": "#EDEDEDFF"
 		},
 		"currentStrokeOptions": null,
 		"previousGridSize": null,
