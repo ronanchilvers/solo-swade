@@ -51,17 +51,9 @@ Sort file.name
 ```
 
 # NPCs, Places, Creatures and Maps
-```button
-name Create new npc
-type command
-action Quickadd: New NPC
-```
-```button
-name Create new creature
-type command
-action Quickadd: New Creature
-```
-^button-new-npc
+
+`button-new-npc``button-new-place``button-new-creature``button-new-map`
+
 ```page-gallery
 filter: false
 orientation: square
@@ -83,7 +75,11 @@ views:
 ```
 
 # Creatures
-
+```button
+name Create new creature
+type command
+action Quickadd: New Creature
+```
 ^button-new-creature
 ```dataview
 List
