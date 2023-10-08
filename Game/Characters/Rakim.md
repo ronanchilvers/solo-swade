@@ -2924,7 +2924,7 @@ Notice to d6 ^YXOw4RIl
 		}
 	],
 	"appState": {
-		"theme": "dark",
+		"theme": "light",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",

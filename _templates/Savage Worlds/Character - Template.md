@@ -29,5 +29,23 @@ tags: [swade,character]
 > - Edge 2
 
 > [!abstract] Skills
+> - **Athletics:** d4
+> - **Common Knowledge:** d4
 > - **Notice:** d4
-> - 
+> - **Persuasion:** d4
+> - **Stealth:** d4
+> - Additional Skill 1: d4
+> - Additional Skill 2: d4
+
+> [!abstract] Weapons
+> 
+> | Name | Damage | Reach / Range | Notes |
+> |-|-|-|-|
+> | Weapon 1 | 1d6 | Mele 
+
+> [!abstract] Gear
+> 
+> | Item | Notes | 
+> |-|-|
+> | Item 1 | Notes for Item 1 |
+> | Item 2 | Notes for Item 2 |
