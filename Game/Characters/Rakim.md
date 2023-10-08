@@ -1,9 +1,6 @@
 ---
-
 excalidraw-plugin: parsed
 tags: [excalidraw,character]
-pageGallery:
-  orientation: landscape
 ---
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
@@ -448,8 +445,8 @@ Notice to d6 ^YXOw4RIl
 		},
 		{
 			"type": "text",
-			"version": 241,
-			"versionNonce": 1436070344,
+			"version": 270,
+			"versionNonce": 1084198328,
 			"isDeleted": false,
 			"id": "HktIqTFR",
 			"fillStyle": "hachure",
@@ -458,8 +455,8 @@ Notice to d6 ^YXOw4RIl
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 97.27271497673837,
-			"y": -602.4422585734053,
+			"x": 98.64417493767587,
+			"y": -602.6708352335615,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 62.23994445800781,
@@ -469,7 +466,7 @@ Notice to d6 ^YXOw4RIl
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1696755820262,
+			"updated": 1696756344401,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
