@@ -58,16 +58,19 @@ action Quickadd: New NPC
 ```
 ^button-new-npc
 ```page-gallery
+filter: false
+debug: true
 views:
 - name: NPCs
-  from: '#npc AND NOT #archived'
+  from: '-"_templates"'
+  where: 'contains(file.tags, "npc") and !contains(file.tags, "archived")'
 ```
 
-```datavie1w
+%% ```datavie1w
 List summary
 From -"_templates"
 Where contains(file.tags, "npc") and !contains(file.tags, "archived")
-```
+``` %%
 
 # Creatures
 ```button
