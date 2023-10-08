@@ -5,6 +5,6 @@ tags: [tiny-d6,mechanics]
 ```dataview
 Task
 From -"_templates"
-Where contains(tags, "thread")
+Where contains(tags, "thread") and !contains(file.tags, "archived")
 Sort created ascending
 ```

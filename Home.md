@@ -32,7 +32,7 @@ action Quickadd: New Map
 ```dataview
 List 
 From -"_templates"
-Where contains(file.tags, "map")
+Where contains(file.tags, "map") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
@@ -46,7 +46,7 @@ action Quickadd: New Character
 ```dataview
 List 
 From -"_templates"
-Where contains(file.tags, "character")
+Where contains(file.tags, "character") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
@@ -60,7 +60,7 @@ action Quickadd: New NPC
 ```dataview
 List summary
 From -"_templates"
-Where contains(file.tags, "npc")
+Where contains(file.tags, "npc") and !contains(file.tags, "archived")
 ```
 
 # Creatures
@@ -73,7 +73,7 @@ action Quickadd: New Creature
 ```dataview
 List
 From -"_templates"
-Where contains(file.tags, "creature") 
+Where contains(file.tags, "creature") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
@@ -87,7 +87,7 @@ action Quickadd: New Setting
 ```dataview
 List 
 From -"_templates"
-Where contains(file.tags, "setting")
+Where contains(file.tags, "setting") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
@@ -101,7 +101,7 @@ action Quickadd: New Place
 ```dataview
 List summary 
 From -"_templates"
-Where contains(file.tags, "place")
+Where contains(file.tags, "place") and !contains(file.tags, "archived")
 Sort file.name
 ```
 
@@ -109,6 +109,6 @@ Sort file.name
 ```dataview
 List
 From -"_templates"
-Where contains(file.tags, "mechanics") 
+Where contains(file.tags, "mechanics") and !contains(file.tags, "archived") 
 Sort file.name
 ```

@@ -5,5 +5,5 @@ tags: [tiny-d6,mechanics]
 ```dataview
 List summary
 From -"_templates"
-Where contains(file.tags, "npc")
+Where contains(file.tags, "npc") and !contains(file.tags, "archived")
 ```
