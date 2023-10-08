@@ -2,6 +2,8 @@
 created: 2023-10-08 10:31
 tags: [swade,character]
 ---
+![[rakim.jpg]]
+
 >[!abstract] Basics
 >
 > - **Name:** Rakim
@@ -24,7 +26,7 @@ tags: [swade,character]
 > 
 > | Parry | Toughness | Pace |
 > |-|-|-|
-> | 5 | 5 (0) | 6 |
+> | 6(1) | 5 (0) | 6 |
 
 > [!abstract] Hindrances
 > - Outsider (minor)
@@ -51,25 +53,29 @@ tags: [swade,character]
 > 
 > | Name | Damage | Reach / Range | Notes |
 > |-|-|-|-|
-> | Weapon 1 | Str+d6 | Melee | Notes for weapon 1 |
-> | Weapon 2 | 2d6 | 12/24/48 | Notes for weapon 2 | 
+> | Short Bow | 2d6 | 12/24/48 | 12 arrows |
+> | Rapier | Str+d4 | melee | Parry+1 | 
 
 > [!abstract] Powers
 > **Power Points:** 10
 > 
 > | Name | PP | Range | Duration | Effect | Trappings |
 > |-|-|-|-|-|-|
-> | Power 1 | 1 | Smarts | Instantaneous |  Effect 1 | Trappings 1 |
+> | Bolt | 1 | Smarts x 2 | Instantaneous |  2d6 Damage, 3d6 with raise | Arrow |
+> | Protection | 1 | Smarts | 5 |  +2 armour, +4 with raise, has mods | |
 
 > [!abstract] Gear
 > 
-> | Item | Notes | 
-> |-|-|
-> | Item 1 | Notes for Item 1 |
-> | Item 2 | Notes for Item 2 |
+> | Item | Notes | Weight |
+> |-|-|-|
+> | Backpack | | 3 |
+> | Bedroll |  | 7 |
+> | Hemp rope | 25ft | 5 |
+> | Clothes |  | 5 |
+> | Jacket | | 3 |
 
 > [!abstract] Advances
-> - **N:** 
+> - **N:** Notice d6
 > - **N:** 
 > - **N:** 
 > - **S:** 
