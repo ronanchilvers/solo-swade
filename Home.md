@@ -57,7 +57,13 @@ type command
 action Quickadd: New NPC
 ```
 ^button-new-npc
-```dataview
+```page-gallery
+views:
+- name: NPCs
+  from: '#npc AND NOT #archived'
+```
+
+```datavie1w
 List summary
 From -"_templates"
 Where contains(file.tags, "npc") and !contains(file.tags, "archived")
