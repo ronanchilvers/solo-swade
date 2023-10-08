@@ -4,7 +4,6 @@ excalidraw-plugin: parsed
 tags: [excalidraw,character]
 
 ---
-![[zephyria.jpg]]
 ==⚠  Switch to EXCALIDRAW VIEW in the MORE OPTIONS menu of this document. ⚠==
 
 
@@ -374,8 +373,8 @@ Notice to d6 ^YXOw4RIl
 		},
 		{
 			"type": "text",
-			"version": 94,
-			"versionNonce": 1068168625,
+			"version": 95,
+			"versionNonce": 583016376,
 			"isDeleted": false,
 			"id": "WMf0OcjO",
 			"fillStyle": "hachure",
@@ -384,7 +383,7 @@ Notice to d6 ^YXOw4RIl
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 98.86795966439405,
+			"x": 99.0965363245503,
 			"y": -639.4969295943827,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
@@ -395,7 +394,7 @@ Notice to d6 ^YXOw4RIl
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695240170933,
+			"updated": 1696755811701,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -448,8 +447,8 @@ Notice to d6 ^YXOw4RIl
 		},
 		{
 			"type": "text",
-			"version": 189,
-			"versionNonce": 1594038161,
+			"version": 241,
+			"versionNonce": 1436070344,
 			"isDeleted": false,
 			"id": "HktIqTFR",
 			"fillStyle": "hachure",
@@ -458,8 +457,8 @@ Notice to d6 ^YXOw4RIl
 			"roughness": 1,
 			"opacity": 100,
 			"angle": 0,
-			"x": 99.00635755486337,
-			"y": -603.8137490519209,
+			"x": 97.27271497673837,
+			"y": -602.4422585734053,
 			"strokeColor": "#1e1e1e",
 			"backgroundColor": "transparent",
 			"width": 62.23994445800781,
@@ -469,7 +468,7 @@ Notice to d6 ^YXOw4RIl
 			"frameId": null,
 			"roundness": null,
 			"boundElements": [],
-			"updated": 1695240170933,
+			"updated": 1696755820262,
 			"link": null,
 			"locked": false,
 			"fontSize": 16,
@@ -2927,7 +2926,7 @@ Notice to d6 ^YXOw4RIl
 		}
 	],
 	"appState": {
-		"theme": "light",
+		"theme": "dark",
 		"viewBackgroundColor": "#ffffff",
 		"currentItemStrokeColor": "#1e1e1e",
 		"currentItemBackgroundColor": "transparent",
