@@ -8,6 +8,11 @@ tags: [swade,character]
 > - **Concept:**
 > - **Race:**
 
+> [!abstract] Description
+> Duis tempus diam sit amet purus varius, eget semper justo hendrerit. Maecenas vehicula, quam vel posuere dapibus, urna 
+> quam laoreet lorem, non sagittis metus lacus sed nunc. Aliquam porttitor eu purus a varius. Maecenas ac lectus in orci 
+> ultrices facilisis. Aliquam erat volutpat.
+
 `class: track`
 > [!abstract] Bennies
 > - [ ] 1
