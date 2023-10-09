@@ -6,7 +6,7 @@ banner_y: 0.97999
 ![[swade.png|right|250]]
 
 > [!abstract] Starting Scene
-> Zafira Al'Shara, Rakim's patron, has discovered an old map which she believes gives the location of an ancient treasure - the "Desert Star", a magical jewel. She has given Rakim the job of following the map and finding out if it really does lead to the Star or something else entirely.
+> While many western countries are excited 
 
 # Scenes
 `button-scene`
