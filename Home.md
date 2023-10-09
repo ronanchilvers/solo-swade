@@ -1,7 +1,8 @@
 ---
 created: 2023-07-07 11:29
-banner: "![[zephyria.jpg]]"
-banner_y: 0.97999
+banner: "![[home-2.jpg]]"
+banner_y: 0.34
+banner_lock: true
 ---
 ![[swade.png|right|250]]
 
