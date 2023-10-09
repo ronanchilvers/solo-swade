@@ -1,9 +1,9 @@
 ---
 created: 2023-10-08 10:31
-tags: [swade,character]
-banner: "![[character.jpg]]"
-banner_y: 0.47666
-banner_lock: true
+tags:
+  - swade
+  - character
+  - archived
 ---
 ![[rakim.jpg|right|400]]
 
