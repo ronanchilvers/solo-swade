@@ -7,8 +7,8 @@ banner_y: 0.97999
 
 > [!abstract] Starting Scene
 > While many western countries are excited about the new researches into electro-arcane energy, there are those who fear it's power. They fear that we don't yet understand the true source of the newly discovered powers. They fear that it may not be what it seems and that we are on the brink of calamity.
-> The Society of the Curious is a group of skeptics formed in London in 1928, which aims to discover the truth. Word has reached London of a strange event high in the french Alps, a sighting of something so extraordinary that no one believes it happened.
-> A young recruit, Darius Fisher, already an experienced explorer and eager to show his mettle, leaves London on the express train bound for Dover. He is booked on the overnight boat to Ostend and from there he takes a train bound southeast, to Geneva and then on to Chamonix. He is bound for the deep
+> The Society of the Curious is a group of skeptics formed in London in 1928, which aims to discover the truth. Word has reached London of a strange event high in the Ural mountains of Russia, a sighting of something so extraordinary that no one believes it happened. A single page from a diary carried by one of the Society's most trusted members, revealed a discovery so shocking, 
+> A young recruit, Darius Fisher, already an experienced explorer and eager to show his mettle, leaves London on the express train bound for Dover. He is booked on the overnight boat to Ostend and from there he takes a train bound southeast, to Geneva and then on to Chamonix.
 
 # Scenes
 `button-scene`
