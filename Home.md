@@ -6,7 +6,7 @@ banner_y: 0.97999
 ![[swade.png|right|250]]
 
 > [!abstract] Starting Scene
-> While many western countries are excited 
+> While many western countries are excited about the new researches into electro-arcane energy, there are those who fear it's power. They fear that we don't yet understand the true source of the newly discovered powers. They fear that it may not be what it seems and that we are on the bri
 
 # Scenes
 `button-scene`

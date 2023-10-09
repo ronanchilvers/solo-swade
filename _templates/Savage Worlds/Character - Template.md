@@ -1,9 +1,8 @@
 ---
 created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
-tags: [swade,character]
-banner: "![[character.jpg]]"
-banner_y: 0.47666
-banner_lock: true
+tags: 
+  - swade
+  - character
 ---
 >[!abstract] Basics
 >

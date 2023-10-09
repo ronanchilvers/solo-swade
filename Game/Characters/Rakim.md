@@ -4,9 +4,6 @@ tags:
   - swade
   - character
   - archived
-banner: "![[character.jpg]]"
-banner_y: 0.47666
-banner_lock: true
 ---
 ![[rakim.jpg|right|400]]
 
