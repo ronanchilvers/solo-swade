@@ -1,6 +1,6 @@
 ---
 created: 2023-10-08 10:31
-tags: [swade,character]
+tags: [swade,character,archived]
 banner: "![[character.jpg]]"
 banner_y: 0.47666
 banner_lock: true

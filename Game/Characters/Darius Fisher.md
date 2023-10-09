@@ -1,10 +1,13 @@
 ---
 created: 2023-10-08 16:28
-tags: [swade,character]
+tags: 
+  - swade
+  - character
 banner: "![[character.jpg]]"
 banner_y: 0.47666
 banner_lock: true
 ---
+![[darius-fisher.jpg|right|400]]
 >[!abstract] Basics
 >
 > - **Name:** Darius Fisher
