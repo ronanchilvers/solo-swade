@@ -1,6 +1,6 @@
 ---
 created: 2023-09-18 15:44
-tags: [npc]
+tags: [npc,archived]
 banner: "![[npcs.jpg]]"
 banner_lock: true
 banner_y: 0.47
