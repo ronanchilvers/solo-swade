@@ -13,7 +13,7 @@ tags:
 
 > [!note] Aspects
 > - **High Concept**: Energetic Archaeologist and Explorer Who
-> - **Trouble**: Black sheep of the family
+> - **Trouble**: The black sheep of the family who might inherit the title
 
 > [!note] Fate Points
 > **Refresh:** 3
@@ -24,10 +24,10 @@ tags:
 
 > [!note] Skills
 >  - **Superb / +5 :**  None
->  - **Great / +4 :**  None
->  - **Good / +3 :** None
->  - **Fair / +2:** None
->  - **Average / +1:** None
+>  - **Great / +4 :**  Investigate
+>  - **Good / +3 :** Lore, Will
+>  - **Fair / +2:** Fight, Rapport, Contacts
+>  - **Average / +1:** Resources,Shoot, Physique, Notice
 
 > [!question]- Choosing Stunts
 > ![[Character Creation Notes#Choosing Stunts]]
