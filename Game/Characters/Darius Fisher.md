@@ -6,14 +6,14 @@ tags:
 ---
 ![[darius-fisher-token.png|left]]
 > [!note] Description
-> Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache. He is the third son of the Earl of Radnor in Wiltshire and has gained the reputation for being the black sheep of the family. Darius has spent a lot of his time since leaving university (where he studied the classics, world history and archaeology) travelling the world, usuall
+> Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache. He is the third son of the Earl of Radnor in Wiltshire and has gained the reputation for being the black sheep of the family. Darius has spent a lot of his time since leaving university (where he studied the classics, world history and archaeology) travelling the world, usually on his own. He gained a more complimentary reputation from scientific and archaeological organisations as an accomplished researcher and explorer. By the age of 30 he already had several significant finds registered with the British Museum in London. It was then he was contacted by the Society of Curious Personages who were interested in making use of his particular skills.
 
 > [!question]- Creating Aspects
 > ![[Character Creation Notes#Creating Aspects]]
 
 > [!note] Aspects
-> - **High Concept**: 
-> - **Trouble**:
+> - **High Concept**: Energetic Archaeologist and Explorer Who
+> - **Trouble**: Black sheep of the family
 
 > [!note] Fate Points
 > **Refresh:** 3
