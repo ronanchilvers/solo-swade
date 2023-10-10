@@ -1,3 +1,6 @@
 .page-gallery__tiles {
     justify-content: left !important;
 }
+.page-gallery__tile-image--image {
+    box-shadow: none;
+}

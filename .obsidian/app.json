@@ -15,6 +15,7 @@
   "promptDelete": false,
   "propertiesInDocument": "hidden",
   "userIgnoreFilters": [
-    "Almanac/SRD/"
+    "Almanac/SRD/",
+    "/.*_archived.*/"
   ]
 }

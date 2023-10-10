@@ -1,92 +1,74 @@
 ---
-created: 2023-10-08 16:28
+created: 2023-10-10
 tags: 
-  - swade
+  - fate-core
   - character
 ---
-![[darius-fisher-smiling.jpg|right|400]]
->[!abstract] Basics
->
-> - **Name:** Darius Fisher
-> - **Concept:** Scientific Researcher and Explorer
-> - **Race:** Human
+![[darius-fisher-token.png|left]]
+> [!note] Description
+> Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache.
 
-> [!abstract] Description
-> Duis tempus diam sit amet purus varius, eget semper justo hendrerit. Maecenas vehicula, quam vel posuere dapibus, urna quam laoreet lorem, non sagittis metus lacus sed nunc. Aliquam porttitor eu purus a varius. Maecenas ac lectus in orci ultrices facilisis. Aliquam erat volutpat.
+> [!question]- Creating Aspects
+> ![[Character Creation Notes#Creating Aspects]]
 
-`class: track`
-> [!abstract] Bennies
+> [!note] Aspects
+> - **High Concept**: 
+> - **Trouble**:
+
+> [!note] Fate Points
+> **Refresh:** 3
+> **Current:** 3
+
+> [!question]- Choosing Skills 
+> ![[Character Creation Notes#Choosing Skills]]
+
+> [!note] Skills
+>  - **Superb / +5 :**  None
+>  - **Great / +4 :**  None
+>  - **Good / +3 :** None
+>  - **Fair / +2:** None
+>  - **Average / +1:** None
+
+> [!question]- Choosing Stunts
+> ![[Character Creation Notes#Choosing Stunts]]
+
+> [!note] Stunts
+> - stunt 1
+> - stunt 2
+
+> [!question]- Stress and Consequences
+> ![[Character Creation Notes#Stress and Consequences]]
+
+> [!note] Stress
+> **Physical:** `class: track-title`
 > - [ ] 1
 > - [ ] 2
-> - [ ] 3
-
->[!abstract] Attributes
->
-> | Agility | Smarts | Spirit | Strength | Vigor |
-> |-|-|-|-|-|
-> | d4 | d4 | d4 | d4 | d4 |
-
-> [!abstract] Derived Attributes
 > 
-> | Parry | Toughness | Pace |
-> |-|-|-|
-> | 4 | 4 (0) | 6 |
+> **Mental:** `class: track-title`
+>  - [ ] 1
+>  - [ ] 2
 
-> [!abstract] Hindrances
-> - Hindrance 1
-> - Hindrance 2
+> [!note] Consequences
+> - **Mild (2 stress):** 
+> - **Moderate (4 stress):** 
+> - **Severe (6 stress):** 
 
-> [!abstract] Starting / Racial Edges
-> - Edge 1
-> - Edge 2
+# Gear, Notes and Other Stuff
 
-> [!abstract] Skills
-> - **Athletics:** d4
-> - **Common Knowledge:** d4
-> - **Notice:** d4
-> - **Persuasion:** d4
-> - **Stealth:** d4
-> - Additional Skill 1: d4
-> - Additional Skill 2: d4
-
-> [!abstract] Weapons
+> [!note] Gear
 > 
-> | Name | Damage | Reach / Range | Notes |
-> |-|-|-|-|
-> | Weapon 1 | Str+d6 | Melee | Notes for weapon 1 |
-> | Weapon 2 | 2d6 | 12/24/48 | Notes for weapon 2 | 
+> | Item | Weight | Notes |
+> | ---- | ------ | ----- |
+> |      |        |       |
 
-> [!abstract] Powers
-> **Power Points:** 10
+> [!note] Currency
 > 
-> | Name | PP | Range | Duration | Effect | Trappings |
-> |-|-|-|-|-|-|
-> | Power 1 | 1 | Smarts | Instantaneous |  Effect 1 | Trappings 1 |
+> | Denomination | Quantity | Notes |
+> | ---- | ------ | ----- |
+> |      |        |       |
 
-> [!abstract] Gear
-> 
-> | Item | Notes | 
-> |-|-|
-> | Item 1 | Notes for Item 1 |
-> | Item 2 | Notes for Item 2 |
+> [!note] Notes
+> Character notes, story points and progress details go here!
 
-> [!abstract] Advances
-> - **N:** 
-> - **N:** 
-> - **N:** 
-> - **S:** 
-> - **S:** 
-> - **S:** 
-> - **S:** 
-> - **V:** 
-> - **V:** 
-> - **V:** 
-> - **V:** 
-> - **H:** 
-> - **H:** 
-> - **H:** 
-> - **H:** 
-> - **L:** 
-> - **L:** 
-> - **L:** 
-> - **L:** 
+> [!note] Images
+> ![[darius-fisher-smiling.jpg]]
