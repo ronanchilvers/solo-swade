@@ -33,8 +33,9 @@ tags:
 > ![[Character Creation Notes#Choosing Stunts]]
 
 > [!note] Stunts
-> - stunt 1
-> - stunt 2
+> - The Power Of Deduction
+> - I’ve Read about That!
+> - 
 
 > [!question]- Stress and Consequences
 > ![[Character Creation Notes#Stress and Consequences]]
