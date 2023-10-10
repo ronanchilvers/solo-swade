@@ -58,25 +58,37 @@ A player character in Fate starts with a refresh of 3. That means he’ll start 
 
 The default stunt list is:
 
-| Skill     | Stunt                       | Reference |
-| --------- | --------------------------- | --------- |
-| Athletics | Sprinter                    | FC, p98   |
-| Athletics | Hardcore Parkour            | FC, p98   |
-| Athletics | Dazing Counter              | FC, p98   |
-| Burglary  | Always a Way Out            | FC, p99   |
-| Burglary  | Security Specialist         | FC, p99   |
-| Burglary  | Talk The Talk               | FC, p99   |
-| Contacts  | Ear To The Ground           | FC, p101  |
-| Contacts  | Rumourmonger                | FC, p101  |
-| Contacts  | The Weight of Reputation    | FC, p101  |
-| Crafts    | Always Making Useful Things | FC, p103  |
-| Crafts    | Better Than New!            | FC, p103  |
-| Crafts    | Surgical Strikes            | FC, p103  |
-| Deceive   | Lies Upon Lies              | FC, p104  |
-| Deceive   | Mind Games                  | FC, p104  |
-| Deceive   | One Person, Many Faces      | p104      |
-| Drive     | Hard to Shake               | p107      |
-| Drive     | Pedal To The Metal          | FC, p107  |
-| Drive     | Ramming Speed               | FC, p107  |
-| Empathy   | Lie Whisperer               | FC, p109  |
-|           |                             |           |
+| Skill       | Stunt                       |     | Reference |
+| ----------- | --------------------------- | --- | --------- |
+| Athletics   | Sprinter                    |     | FC, p98   |
+| Athletics   | Hardcore Parkour            |     | FC, p98   |
+| Athletics   | Dazing Counter              |     | FC, p98   |
+| Burglary    | Always a Way Out            |     | FC, p99   |
+| Burglary    | Security Specialist         |     | FC, p99   |
+| Burglary    | Talk The Talk               |     | FC, p99   |
+| Contacts    | Ear To The Ground           |     | FC, p101  |
+| Contacts    | Rumourmonger                |     | FC, p101  |
+| Contacts    | The Weight of Reputation    |     | FC, p101  |
+| Crafts      | Always Making Useful Things |     | FC, p103  |
+| Crafts      | Better Than New!            |     | FC, p103  |
+| Crafts      | Surgical Strikes            |     | FC, p103  |
+| Deceive     | Lies Upon Lies              |     | FC, p104  |
+| Deceive     | Mind Games                  |     | FC, p104  |
+| Deceive     | One Person, Many Faces      |     | FC, p104  |
+| Drive       | Hard to Shake               |     | FC, p107  |
+| Drive       | Pedal To The Metal          |     | FC, p107  |
+| Drive       | Ramming Speed               |     | FC, p107  |
+| Empathy     | Lie Whisperer               |     | FC, p109  |
+| Empathy     | Nose For Trouble            |     | FC, p107  |
+| Empathy     | Psychologist                |     | FC, p107  |
+| Fight       | Heavy Hitter                |     | FC, p111  |
+| Fight       | Backup Weapon               |     | FC, p111  |
+| Fight       | Killing Stroke              |     | FC, p111  |
+| Investigate | Attention To Detail         |     | FC, p113  |
+| Investigate | Eavesdropper                |     | FC, p113  |
+| Investigate | The Power Of Deduction      |     | FC, p113  |
+| Lore        | I've Read About That!       |     | FC, p115  |
+| Lore        | Shield Of Reason            |     | FC, p115  |
+| Lore        | Specialist                  |     | FC, p115  |
+| Notice      | Danger Sense                |     | FC, p117  |
+|             |                             |     |           |
