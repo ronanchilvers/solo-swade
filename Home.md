@@ -4,7 +4,7 @@ banner: "![[home-2.jpg]]"
 banner_y: 0.77
 banner_lock: true
 ---
-![[swade.png|right|250]]
+![[fate-rpg.png]]
 
 > [!abstract] Starting Scene
 > While many western countries are excited about the new researches into electro-arcane energy, there are those who fear it's power. They fear that we don't yet understand the true source of the newly discovered powers. They fear that it may not be what it seems and that we are on the brink of calamity.

@@ -1,4 +1,4 @@
-![[darius-fisher-smiling.jpg|right|300]]
+![[darius-fisher-token.png|left]]
 > [!note] Description
 > Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache.
 
@@ -63,3 +63,6 @@
 
 > [!note] Notes
 > Character notes, story points and progress details go here!
+
+> [!note] Images
+> ![[darius-fisher-smiling.jpg]]
