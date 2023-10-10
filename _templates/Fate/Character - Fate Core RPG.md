@@ -3,24 +3,24 @@
 > 
 
 > [!todo]- Stress, Refresh and Fate Points
+> Every PC has two different stress tracks. The physical stress track deals with physical harm, and the mental stress track mitigates mental harm. The more boxes in a stress track, the more resilient the character is in that regard. By default, a character has two boxes in each stress track.
 > 
+> Every PC also has three consequence slots. One is mild, one is moderate, and the last one is severe. Unlike stress, these aren’t classified as either physical or mental - any of them can apply to any type of harm. As mentioned above, consequences are the injuries and traumas you can’t just shake off after the dust settles.
+>
+> Certain skills and some stunts can add to these defaults. See the Skills and Stunts chapter for more on that. For the sake of quick reference, these are the skills in Hearts of Steel that alter stress and consequences:
+> 
+> Physique helps with physical stress, and Will helps with mental stress. Either skill grants: 
+> - one more stress box of the respective type (physical or mental) if rated at Average (+1) or Fair (+2)
+> - two more stress boxes of the respective type (physical or mental) if rated at Good (+3) or higher
+> - an additional mild consequence slot at Superb (+5) or higher
+> 
+> Unlike the standard three, this con- sequence slot is specifically restricted to either physical harm (Physique) or mental harm (Will).
 
-> [!abstract] Stress and Fate Points
+> [!abstract] Fate Points
 > **Refresh:** 3
-> **Current Fate Points:** 3
-> 
-> **Physical:** `class: track-title`
-> - [ ] 1
-> - [ ] 2
-> 
-> **Mental:** `class: track-title`
->  - [ ] 1
->  - [ ] 2
+> **Current:** 3
 
-> [!abstract] Stress and Fate Points
-> **Refresh:** 3
-> **Current Fate Points:** 3
-> 
+> [!abstract] Stress
 > **Physical:** `class: track-title`
 > - [ ] 1
 > - [ ] 2
@@ -30,7 +30,7 @@
 >  - [ ] 2
 
 > [!abstract] Consequences
-> - Mild (2): 
+> - Mild [2]: 
 > - Moderate (4):
 > - Severe (6):
 
