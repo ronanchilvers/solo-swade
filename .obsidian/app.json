@@ -13,5 +13,8 @@
   "mobilePullAction": "switcher:open",
   "alwaysUpdateLinks": true,
   "promptDelete": false,
-  "propertiesInDocument": "hidden"
+  "propertiesInDocument": "hidden",
+  "userIgnoreFilters": [
+    "Almanac/SRD/"
+  ]
 }

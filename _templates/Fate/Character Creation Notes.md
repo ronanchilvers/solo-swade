@@ -60,7 +60,7 @@ The default stunt list is:
 
 | Skill       | Stunt                       | Link                                                      |
 | ----------- | --------------------------- | --------------------------------------------------------- |
-| Athletics   | Sprinter                    | https://fate-srd.com/fate-core/athletics#athletics-stunts |
+| Athletics   | [[Almanac/SRD/fate-core/athletics/index#Athletics Stunts]]                    | https://fate-srd.com/fate-core/athletics#athletics-stunts |
 | Athletics   | Hardcore Parkour            | https://fate-srd.com/fate-core/athletics#athletics-stunts |
 | Athletics   | Dazing Counter              | https://fate-srd.com/fate-core/athletics#athletics-stunts |
 | Burglary    | Always a Way Out            | https://fate-srd.com/fate-core/burglary#burglary-stunts   |
