@@ -1,20 +1,38 @@
 > [!abstract] ID
 > **Description:**
 > 
+
+> [!todo]- Stress, Refresh and Fate Points
+> 
+
+> [!abstract] Stress and Fate Points
 > **Refresh:** 3
 > **Current Fate Points:** 3
-
-> [!todo]- 
-
-`class: track`
-> [!abstract] Stress
-> **Physical** `class: track-title`
+> 
+> **Physical:** `class: track-title`
 > - [ ] 1
 > - [ ] 2
 > 
-> **Mental** `class: track-title`
+> **Mental:** `class: track-title`
 >  - [ ] 1
 >  - [ ] 2
+
+> [!abstract] Stress and Fate Points
+> **Refresh:** 3
+> **Current Fate Points:** 3
+> 
+> **Physical:** `class: track-title`
+> - [ ] 1
+> - [ ] 2
+> 
+> **Mental:** `class: track-title`
+>  - [ ] 1
+>  - [ ] 2
+
+> [!abstract] Consequences
+> - Mild (2): 
+> - Moderate (4):
+> - Severe (6):
 
 > [!todo]- Choosing Skills 
 > Your skills form a pyramid, with a single skill rated at Great (+4) - your peak skill - and more skills at each lower rating on the ladder going down to Average (+1):
@@ -57,8 +75,3 @@
 > [!abstract] Stunts
 > - stunt 1
 > - stunt 2
-
-> [!abstract] Consequences
-> - Mild (2): 
-> - Moderate (4):
-> - Severe (6):
