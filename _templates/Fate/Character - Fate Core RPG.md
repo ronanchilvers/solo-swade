@@ -1,3 +1,5 @@
+> [!note] Description
+> Description of your character goes here...
 
 > [!question]- Creating Aspects
 > ![[Character Creation Notes#Creating Aspects]]
@@ -5,8 +7,6 @@
 > [!note] Aspects
 > - **High Concept**:
 > - **Trouble**:
-> **Description:**
-> 
 
 > [!note] Fate Points
 > **Refresh:** 3

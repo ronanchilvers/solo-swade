@@ -1,12 +1,12 @@
 ![[darius-fisher-smiling.jpg|right|300]]
-> [!note] ID
-> **Description:** Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache.
+> [!note] Description
+> Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache.
 
 > [!question]- Creating Aspects
 > ![[Character Creation Notes#Creating Aspects]]
 
 > [!note] Aspects
-> - **High Concept**:
+> - **High Concept**: 
 > - **Trouble**:
 
 > [!note] Fate Points
