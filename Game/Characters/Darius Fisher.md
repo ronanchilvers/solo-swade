@@ -6,7 +6,7 @@ tags:
 ---
 ![[darius-fisher-token.png|left]]
 > [!note] Description
-> Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache.
+> Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache. He is the third son of the Duke of 
 
 > [!question]- Creating Aspects
 > ![[Character Creation Notes#Creating Aspects]]
