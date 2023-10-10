@@ -22,23 +22,23 @@ Your skills form a pyramid, with a single skill rated at Great (+4) - your peak 
 - Four Average (+1) skills
 
 Mediocre (+0) is the default  for any skill you do not take. The default skill list is:
-- Athletics
-- Burglary
-- Contacts
-- Crafts
-- Deceive
-- Drive
-- Empathy
-- Fight
-- Investigate
-- Lore
-- Notice
-- Physique
-- Rapport
-- Resources
-- Shoot
-- Stealth
-- Will
+- [[Almanac/SRD/fate-core/athletics/index#Athletics|Athletics]]
+- [[Almanac/SRD/fate-core/burglary/index#Burglary|Burglary]]
+- [[Almanac/SRD/fate-core/contacts/index#Contacts|Contacts]]
+- [[Almanac/SRD/fate-core/crafts/index#Crafts|Crafts]]
+- [[Almanac/SRD/fate-core/deceive/index#Deceive|Deceive]]
+- [[Almanac/SRD/fate-core/drive/index#Drive|Drive]]
+- [[Almanac/SRD/fate-core/empathy/index#Empathy|Empathy]]
+- [[Almanac/SRD/fate-core/fight/index#Fight|Fight]]
+- [[Almanac/SRD/fate-core/investigate/index#Investigate|Investigate]]
+- [[Almanac/SRD/fate-core/lore/index#Lore|Lore]]
+- [[Almanac/SRD/fate-core/notice/index#Notice|Notice]]
+- [[Almanac/SRD/fate-core/physique/index#Physique|Physique]]
+- [[Almanac/SRD/fate-core/rapport/index#Rapport|Rapport]]
+- [[Almanac/SRD/fate-core/resources/index#Resources|Resources]]
+- [[Almanac/SRD/fate-core/shoot/index#Shoot|Shoot]]
+- [[Almanac/SRD/fate-core/stealth/index#Stealth|Stealth]]
+- [[Almanac/SRD/fate-core/will/index#Will|Will]]
 
 # Creating Aspects
 
@@ -57,21 +57,20 @@ You get ***three stunts for free***, and you can take up to ***two more stunts**
 A player character in Fate starts with a refresh of 3. That means he’ll start each session off with at least 3 fate points. If you pick four stunts, your refresh is 2. If you pick five stunts, your refresh is 1. Regardless of how stunts work in your game, you can never have a refresh lower than 1.
 
 The default stunt list is:
-
-- [[Almanac/SRD/fate-core/athletics/index#Athletics Stunts]]
-- [[Almanac/SRD/fate-core/burglary/index#Burglary Stunts]]
-- [[Almanac/SRD/fate-core/contacts/index#Stunts]]
-- [[Almanac/SRD/fate-core/crafts/index#Crafts Stunts]]
-- [[Almanac/SRD/fate-core/deceive/index#Deceive Stunts]]
-- [[Almanac/SRD/fate-core/drive/index#Drive Stunts]]
-- [[Almanac/SRD/fate-core/empathy/index#Empathy Stunts]]
-- [[Almanac/SRD/fate-core/fight/index#Fight Stunts]]
-- [[Almanac/SRD/fate-core/investigate/index#Investigate Stunts]]
-- [[Almanac/SRD/fate-core/lore/index#Lore Stunts]]
-- [[Almanac/SRD/fate-core/notice/index#Notice Stunts]]
-- [[Almanac/SRD/fate-core/physique/index#Physique Stunts|index]]
+- [[Almanac/SRD/fate-core/athletics/index#Athletics Stunts|Athletics Stunts]]
+- [[Almanac/SRD/fate-core/burglary/index#Burglary Stunts|Burglary Stunts]]
+- [[Almanac/SRD/fate-core/contacts/index#Stunts#Contacts Stunts|Contacts Stunts]]
+- [[Almanac/SRD/fate-core/crafts/index#Crafts Stunts|Crafts Stunts]]
+- [[Almanac/SRD/fate-core/deceive/index#Deceive Stunts|Deceive Stunts]]
+- [[Almanac/SRD/fate-core/drive/index#Drive Stunts|Drive Stunts]]
+- [[Almanac/SRD/fate-core/empathy/index#Empathy Stunts|Empathy Stunts]]
+- [[Almanac/SRD/fate-core/fight/index#Fight Stunts|Fight Stunts]]
+- [[Almanac/SRD/fate-core/investigate/index#Investigate Stunts|Investigate Stunts]]
+- [[Almanac/SRD/fate-core/lore/index#Lore Stunts|Lore Stunts]]
+- [[Almanac/SRD/fate-core/notice/index#Notice Stunts|Notice Stunts]]
+- [[Almanac/SRD/fate-core/physique/index#Physique Stunts|Physique Stunts]]
 - [[Almanac/SRD/fate-core/rapport/index#Rapport Stunts|Rapport Stunts]]
-- Resources
-- Shoot
-- Stealth
-- Will
+- [[Almanac/SRD/fate-core/resources/index#Resources Stunts|Resources Stunts]]
+- [[Almanac/SRD/fate-core/shoot/index#Shoot Stunts|Shoot Stunts]]
+- [[Almanac/SRD/fate-core/stealth/index#Stealth Stunts|Stealth Stunts]]
+- [[Almanac/SRD/fate-core/will/index#Will Stunts|Will Stunts]]
