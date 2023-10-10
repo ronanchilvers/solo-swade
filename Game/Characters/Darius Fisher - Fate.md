@@ -19,7 +19,7 @@
 >  - **Superb / +5 :**  
 >  - **Great / +4 :**  
 >  - **Good / +3 :** 
->  - **Fair / +2:**
+>  - **Fair / +2:** 
 >  - **Average / +1:** 
 
 > [!abstract] Aspects
