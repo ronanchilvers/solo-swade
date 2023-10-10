@@ -1,6 +1,33 @@
-> [!note] ID
+
+> [!question]- Creating Aspects
+> ![[Character Creation Notes#Creating Aspects]]
+
+> [!note] Aspects
+> - **High Concept**:
+> - **Trouble**:
 > **Description:**
 > 
+
+> [!note] Fate Points
+> **Refresh:** 3
+> **Current:** 3
+
+> [!question]- Choosing Skills 
+> ![[Character Creation Notes#Choosing Skills]]
+
+> [!note] Skills
+>  - **Superb / +5 :**  None
+>  - **Great / +4 :**  None
+>  - **Good / +3 :** None
+>  - **Fair / +2:** None
+>  - **Average / +1:** None
+
+> [!question]- Choosing Stunts
+> ![[Character Creation Notes#Choosing Stunts]]
+
+> [!note] Stunts
+> - stunt 1
+> - stunt 2
 
 > [!question]- Stress and Consequences
 > ![[Character Creation Notes#Stress and Consequences]]
@@ -18,34 +45,6 @@
 > - **Mild (2 stress):** 
 > - **Moderate (4 stress):** 
 > - **Severe (6 stress):** 
-
-> [!question]- Choosing Skills 
-> ![[Character Creation Notes#Choosing Skills]]
-
-> [!note] Skills
->  - **Superb / +5 :**  None
->  - **Great / +4 :**  None
->  - **Good / +3 :** None
->  - **Fair / +2:** None
->  - **Average / +1:** None
-
-> [!question]- Creating Aspects
-> ![[Character Creation Notes#Creating Aspects]]
-
-> [!note] Aspects
-> - **High Concept**:
-> - **Trouble**:
-
-> [!question]- Choosing Stunts
-> ![[Character Creation Notes#Choosing Stunts]]
-
-> [!note] Stunts
-> - stunt 1
-> - stunt 2
-
-> [!note] Fate Points
-> **Refresh:** 3
-> **Current:** 3
 
 # Gear, Notes and Other Stuff
 
