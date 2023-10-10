@@ -1,3 +1,4 @@
+![[character.png|right|300]]
 > [!note] Description
 > Description of your character goes here...
 
