@@ -58,37 +58,20 @@ A player character in Fate starts with a refresh of 3. That means he’ll start 
 
 The default stunt list is:
 
-| Skill       | Stunt                       | Link                                                      |
-| ----------- | --------------------------- | --------------------------------------------------------- |
-| Athletics   | [[Almanac/SRD/fate-core/athletics/index#Athletics Stunts]]                    | https://fate-srd.com/fate-core/athletics#athletics-stunts |
-| Athletics   | Hardcore Parkour            | https://fate-srd.com/fate-core/athletics#athletics-stunts |
-| Athletics   | Dazing Counter              | https://fate-srd.com/fate-core/athletics#athletics-stunts |
-| Burglary    | Always a Way Out            | https://fate-srd.com/fate-core/burglary#burglary-stunts   |
-| Burglary    | Security Specialist         | https://fate-srd.com/fate-core/burglary#burglary-stunts   |
-| Burglary    | Talk The Talk               | https://fate-srd.com/fate-core/burglary#burglary-stunts   |
-| Contacts    | Ear To The Ground           | https://fate-srd.com/fate-core/contacts#stunts            |
-| Contacts    | Rumourmonger                | https://fate-srd.com/fate-core/contacts#stunts            |
-| Contacts    | The Weight of Reputation    | https://fate-srd.com/fate-core/contacts#stunts            |
-| Crafts      | Always Making Useful Things |                                                           |
-| Crafts      | Better Than New!            |                                                           |
-| Crafts      | Surgical Strikes            |                                                           |
-| Deceive     | Lies Upon Lies              |                                                           |
-| Deceive     | Mind Games                  |                                                           |
-| Deceive     | One Person, Many Faces      |                                                           |
-| Drive       | Hard to Shake               |                                                           |
-| Drive       | Pedal To The Metal          |                                                           |
-| Drive       | Ramming Speed               |                                                           |
-| Empathy     | Lie Whisperer               |                                                           |
-| Empathy     | Nose For Trouble            |                                                           |
-| Empathy     | Psychologist                |                                                           |
-| Fight       | Heavy Hitter                |                                                           |
-| Fight       | Backup Weapon               |                                                           |
-| Fight       | Killing Stroke              |                                                           |
-| Investigate | Attention To Detail         |                                                           |
-| Investigate | Eavesdropper                |                                                           |
-| Investigate | The Power Of Deduction      |                                                           |
-| Lore        | I've Read About That!       |                                                           |
-| Lore        | Shield Of Reason            |                                                           |
-| Lore        | Specialist                  |                                                           |
-| Notice      | Danger Sense                |                                                           |
-|             |                             |                                                           |
+- [[Almanac/SRD/fate-core/athletics/index#Athletics Stunts]]
+- [[Almanac/SRD/fate-core/burglary/index#Burglary Stunts]]
+- [[Almanac/SRD/fate-core/contacts/index#Stunts]]
+- [[Almanac/SRD/fate-core/crafts/index#Crafts Stunts]]
+- [[Almanac/SRD/fate-core/deceive/index#Deceive Stunts]]
+- [[Almanac/SRD/fate-core/drive/index#Drive Stunts]]
+- [[Almanac/SRD/fate-core/empathy/index#Empathy Stunts]]
+- [[Almanac/SRD/fate-core/fight/index#Fight Stunts]]
+- [[Almanac/SRD/fate-core/investigate/index#Investigate Stunts]]
+- [[Almanac/SRD/fate-core/lore/index#Lore Stunts]]
+- [[Almanac/SRD/fate-core/notice/index#Notice Stunts]]
+- [[Almanac/SRD/fate-core/physique/index#Physique Stunts|index]]
+- [[Almanac/SRD/fate-core/rapport/index#Rapport Stunts|Rapport Stunts]]
+- Resources
+- Shoot
+- Stealth
+- Will
