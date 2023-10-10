@@ -46,3 +46,20 @@
 > [!note] Fate Points
 > **Refresh:** 3
 > **Current:** 3
+
+# Gear, Notes and Other Stuff
+
+> [!note] Gear
+> 
+> | Item | Weight | Notes |
+> | ---- | ------ | ----- |
+> |      |        |       |
+
+> [!note] Currency
+> 
+> | Denomination | Quantity | Notes |
+> | ---- | ------ | ----- |
+> |      |        |       |
+
+> [!note] Notes
+> Character notes, story points and progress details go here!

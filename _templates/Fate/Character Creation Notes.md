@@ -10,7 +10,7 @@ Physique helps with physical stress, and Will helps with mental stress. Either s
 - two more stress boxes of the respective type (physical or mental) if rated at Good (+3) or higher
 - an additional mild consequence slot at Superb (+5) or higher
 
-Unlike the standard three, this con- sequence slot is specifically restricted to either physical harm (Physique) or mental harm (Will).
+Unlike the standard three, this consequence slot is specifically restricted to either physical harm (Physique) or mental harm (Will).
 
 # Choosing Skills
 
@@ -21,7 +21,24 @@ Your skills form a pyramid, with a single skill rated at Great (+4) - your peak 
 - Three Fair (+2) skills
 - Four Average (+1) skills
 
-Mediocre (+0) is the default  for any skill you do not take. 
+Mediocre (+0) is the default  for any skill you do not take. The default skill list is:
+- Athletics
+- Burglary
+- Contacts
+- Crafts
+- Deceive
+- Drive
+- Empathy
+- Fight
+- Investigate
+- Lore
+- Notice
+- Physique
+- Rapport
+- Resources
+- Shoot
+- Stealth
+- Will
 
 # Creating Aspects
 

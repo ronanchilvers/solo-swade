@@ -1,36 +1,49 @@
-![[darius-fisher-smiling.jpg|right|400]]
-> [!abstract] ID
+![[darius-fisher-smiling.jpg|right|300]]
+> [!note] ID
 > **Description:** Darius is in his early 30s and of medium height. He has dark brown hair that is often a mess, green eyes, a ready smile and a rather unkempt moustache.
-> 
-> **Refresh:** 3
-> **Current Fate Points:** 3
+
+> [!question]- Stress and Consequences
+> ![[Character Creation Notes#Stress and Consequences]]
 
 `class: track`
-> [!abstract] Stress
-> **Physical** `class: track-title`
+> [!note] Stress
+> **Physical:** `class: track-title`
 > - [ ] 1
 > - [ ] 2
 > 
-> **Mental** `class: track-title`
+> **Mental:** `class: track-title`
 >  - [ ] 1
 >  - [ ] 2
 
-> [!abstract] Skills
+> [!note] Consequences
+> - **Mild (2 stress):** 
+> - **Moderate (4 stress):** 
+> - **Severe (6 stress):** 
+
+> [!question]- Choosing Skills 
+> ![[Character Creation Notes#Choosing Skills]]
+
+> [!note] Skills
 >  - **Superb / +5 :**  
 >  - **Great / +4 :**  
 >  - **Good / +3 :** 
->  - **Fair / +2:** 
+>  - **Fair / +2:**
 >  - **Average / +1:** 
 
-> [!abstract] Aspects
+> [!question]- Creating Aspects
+> ![[Character Creation Notes#Creating Aspects]]
+
+> [!note] Aspects
 > - **High Concept**:
 > - **Trouble**:
 
-> [!abstract] Stunts
+> [!question]- Choosing Stunts
+> ![[Character Creation Notes#Choosing Stunts]]
+
+> [!note] Stunts
 > - stunt 1
 > - stunt 2
 
-> [!abstract] Consequences
-> - Mild (2): 
-> - Moderate (4):
-> - Severe (6):
+> [!note] Fate Points
+> **Refresh:** 3
+> **Current:** 3
