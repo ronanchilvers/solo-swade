@@ -14,6 +14,9 @@ tags:
 > [!note] Aspects
 > - **High Concept**:
 > - **Trouble**:
+> - Aspect 1
+> - Aspect 2
+> - Aspect 3
 
 > [!note] Fate Points
 > **Refresh:** 3
@@ -55,7 +58,7 @@ tags:
 
 # Gear, Notes and Other Stuff
 
-> [!note] Gear
+> [!note] Notable Gear
 > 
 > | Item | Weight | Notes |
 > | ---- | ------ | ----- |
