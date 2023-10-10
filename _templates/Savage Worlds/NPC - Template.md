@@ -3,7 +3,7 @@ created: <% tp.date.now("YYYY-MM-DD HH:mm") %>
 tags: [tiny-d6,npc]
 banner: "![[npcs.jpg]]"
 banner_lock: true
-banner_y: 0.47
+banner_y: 0.9
 aliases:
 summary: 
 une: 
