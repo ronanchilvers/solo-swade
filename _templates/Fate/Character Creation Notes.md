@@ -50,8 +50,33 @@ In addition to a high concept, every character has some sort of trouble aspect t
 
 # Choosing Stunts
 
-Pick or invent ***three to five stunts***. Determine how many fate points you start play with. Stunts change how skills work for your character. Picking and inventing stunts are covered in the Skills and Stunts chapter.
+Pick or invent ***three to five stunts***. Determine how many fate points you start play with. Stunts change how skills work for your character. You can pick them from the default list or invent them from scratch.
 
 You get ***three stunts for free***, and you can take up to ***two more stunts*** at the cost of ***lowering your refresh by one each***. The idea is the more cool tricks you can do, the more you’ll need to accept compels to get fate points. Figuring out stunts can take a while, so you may want to pick one for now and determine the rest of them during play.
 
 A player character in Fate starts with a refresh of 3. That means he’ll start each session off with at least 3 fate points. If you pick four stunts, your refresh is 2. If you pick five stunts, your refresh is 1. Regardless of how stunts work in your game, you can never have a refresh lower than 1.
+
+The default stunt list is:
+
+| Skill     | Stunt                       | Reference |
+| --------- | --------------------------- | --------- |
+| Athletics | Sprinter                    | FC, p98   |
+| Athletics | Hardcore Parkour            | FC, p98   |
+| Athletics | Dazing Counter              | FC, p98   |
+| Burglary  | Always a Way Out            | FC, p99   |
+| Burglary  | Security Specialist         | FC, p99   |
+| Burglary  | Talk The Talk               | FC, p99   |
+| Contacts  | Ear To The Ground           | FC, p101  |
+| Contacts  | Rumourmonger                | FC, p101  |
+| Contacts  | The Weight of Reputation    | FC, p101  |
+| Crafts    | Always Making Useful Things | FC, p103  |
+| Crafts    | Better Than New!            | FC, p103  |
+| Crafts    | Surgical Strikes            | FC, p103  |
+| Deceive   | Lies Upon Lies              | FC, p104  |
+| Deceive   | Mind Games                  | FC, p104  |
+| Deceive   | One Person, Many Faces      | p104      |
+| Drive     | Hard to Shake               | p107      |
+| Drive     | Pedal To The Metal          | FC, p107  |
+| Drive     | Ramming Speed               | FC, p107  |
+| Empathy   | Lie Whisperer               | FC, p109  |
+|           |                             |           |

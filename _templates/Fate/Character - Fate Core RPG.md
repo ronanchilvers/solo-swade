@@ -23,11 +23,11 @@
 > ![[Character Creation Notes#Choosing Skills]]
 
 > [!note] Skills
->  - **Superb / +5 :**  
->  - **Great / +4 :**  
->  - **Good / +3 :** 
->  - **Fair / +2:**
->  - **Average / +1:** 
+>  - **Superb / +5 :**  None
+>  - **Great / +4 :**  None
+>  - **Good / +3 :** None
+>  - **Fair / +2:** None
+>  - **Average / +1:** None
 
 > [!question]- Creating Aspects
 > ![[Character Creation Notes#Creating Aspects]]
