@@ -12,8 +12,9 @@ tags:
 > ![[Character Creation Notes#Creating Aspects]]
 
 > [!note] Aspects
-> - **High Concept**: Energetic Archaeologist and Explorer Who
-> - **Trouble**: My father wants me to be someone I'm not
+> - **High Concept**: Energetic Archaeologist and Explorer
+> - **Trouble**: Sometimes I sink into a black mood and am good for nothing
+> - Son of a wealthy family
 > - 
 
 > [!note] Fate Points
@@ -64,7 +65,9 @@ tags:
 > 
 > | Item | Weight | Notes |
 > | ---- | ------ | ----- |
-> |      |        |       |
+> | Cynthia's Handkerchief     | 0       | A pocket handkerchief given to Darius by Cynthia Fitzwilliam       |
+> | Silver pocketwatch | 0.5 | A family heirloom |
+> 
 
 > [!note] Currency
 > 
@@ -74,7 +77,10 @@ tags:
 
 > [!note] Notes
 > Darius has spent a lot of his time since leaving university (where he studied the classics, world history and archaeology) travelling the world, usually on his own. He gained a more complimentary reputation from scientific and archaeological organisations as an accomplished researcher and explorer. By the age of 30 he already had several significant finds registered with the British Museum in London. It was then he was contacted by the Society of Curious Personages who were interested in making use of his particular skills.
-> When Darius was 19, he met Cynthia Fitzwilliam, the daughter of a wealthy family friend. He fell for her but she did not return his feelings and while not unkind, made it plain she was not interested. Unfortunately this experience stuck in the mind of young Darius and, probably fuelled by his family's expectations of him, he became determined to win Cynthia's favour. However upon returning from his travels he discovered that Cynthia had married - this threw him into despondency for some time and he became careless with his own safety. Now, the trauma of this early disappointment has resolved itself but it changed him. He is still driven by the desire 
+> 
+> When Darius was 19, he met Cynthia Fitzwilliam, the daughter of a wealthy family friend. He fell for her but she did not return his feelings and while not unkind, made it plain she was not interested. Unfortunately this experience stuck in the mind of young Darius and, probably fuelled by his family's expectations of him, he became determined to win Cynthia's favour by impressing her with grand adventures. However upon returning from his travels he discovered that Cynthia had married - this threw him into despondency for some time and he became careless with his own safety. 
+> 
+> The trauma of this early disappointment has resolved itself but it changed him. He is still driven by the desire to prove himself although to whom is unclear. Sometimes he sinks into black moods and loses himself in depression for a time.
 
 > [!note] Images
 > ![[darius-fisher-smiling.jpg]]
