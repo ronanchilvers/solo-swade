@@ -33,8 +33,8 @@ tags:
 > ![[Character Creation Notes#Choosing Stunts]]
 
 > [!note] Stunts
-> - The Power Of Deduction
-> - I’ve Read about That!
+> - The Power Of Deduction (Investigate)
+> - I’ve Read about That! (Lore)
 > - 
 
 > [!question]- Stress and Consequences
