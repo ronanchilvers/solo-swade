@@ -67,7 +67,7 @@ tags:
 > | ---- | ------ | ----- |
 > | Cynthia's Handkerchief     | 0       | A pocket handkerchief given to Darius by Cynthia Fitzwilliam       |
 > | Silver pocketwatch | 0.5 | A family heirloom |
-> 
+> | Trusty pocket knife | 0.5 | He's had it since boyhood |
 
 > [!note] Currency
 > 
