@@ -36,7 +36,7 @@ tags:
 > [!note] Stunts
 > - The Power Of Deduction (Investigate)
 > - I’ve Read about That! (Lore)
-> - 
+> - Strength From Determination (Will)
 
 > [!question]- Stress and Consequences
 > ![[Character Creation Notes#Stress and Consequences]]
@@ -45,10 +45,13 @@ tags:
 > **Physical:** `class: track-title`
 > - [ ] 1
 > - [ ] 2
+> - [ ] 3
 > 
 > **Mental:** `class: track-title`
 >  - [ ] 1
 >  - [ ] 2
+>  - [ ] 3
+>  - [ ] 4
 
 > [!note] Consequences
 > - **Mild (2 stress):** 
