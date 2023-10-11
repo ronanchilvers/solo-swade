@@ -15,7 +15,6 @@ tags:
 > - **High Concept**: Energetic Archaeologist and Explorer
 > - **Trouble**: Sometimes I sink into a black mood and am good for nothing
 > - Son of a wealthy family
-> - 
 
 > [!note] Fate Points
 > **Refresh:** 3
@@ -35,9 +34,9 @@ tags:
 > ![[Character Creation Notes#Choosing Stunts]]
 
 > [!note] Stunts
-> - The Power Of Deduction (Investigate)
-> - I’ve Read about That! (Lore)
-> - Strength From Determination (Will)
+> - The Power Of Deduction ([[Almanac/SRD/Fate/fate-core/investigate/index#Investigate Stunts|Investigate]])
+> - I’ve Read about That! ([[Almanac/SRD/Fate/fate-core/lore/index#Lore Stunts|Lore]])
+> - Strength From Determination ([[Almanac/SRD/Fate/fate-core/will/index#Will Stunts|Will]])
 
 > [!question]- Stress and Consequences
 > ![[Character Creation Notes#Stress and Consequences]]
@@ -68,12 +67,6 @@ tags:
 > | Cynthia's Handkerchief     | 0       | A pocket handkerchief given to Darius by Cynthia Fitzwilliam       |
 > | Silver pocketwatch | 0.5 | A family heirloom |
 > | Trusty pocket knife | 0.5 | He's had it since boyhood |
-
-> [!note] Currency
-> 
-> | Denomination | Quantity | Notes |
-> | ---- | ------ | ----- |
-> | British Pounds     |  50     |       |
 
 > [!note] Notes
 > Darius has spent a lot of his time since leaving university (where he studied the classics, world history and archaeology) travelling the world, usually on his own. He gained a more complimentary reputation from scientific and archaeological organisations as an accomplished researcher and explorer. By the age of 30 he already had several significant finds registered with the British Museum in London. It was then he was contacted by the Society of Curious Personages who were interested in making use of his particular skills.

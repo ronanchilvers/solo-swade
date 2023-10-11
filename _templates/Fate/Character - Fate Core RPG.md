@@ -64,11 +64,5 @@ tags:
 > | ---- | ------ | ----- |
 > |      |        |       |
 
-> [!note] Currency
-> 
-> | Denomination | Quantity | Notes |
-> | ---- | ------ | ----- |
-> |      |        |       |
-
 > [!note] Notes
 > Character notes, story points and progress details go here!
