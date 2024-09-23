@@ -8,8 +8,9 @@ banner_lock: true
 
 > [!abstract] Starting Scene
 > ![[fate-rpg.png|right|300]]
-> The Society of Curious Personages is a group of skeptics formed in London in 1908. Their motto is "Probare est Credere" - "To Prove is to Believe" and they are vehement about following it.
-> Darius Fisher, already an experienced explorer and eager for adventure, joined the Society quite recently. 
+> While many western countries are excited about the new researches into electro-arcane energy, there are those who fear its power. They fear that we don't yet understand the true source of the newly discovered powers. They fear that it may not be what it seems and that we are on the brink of calamity.
+> The Society of Curious Personages is a group of skeptics formed in London in 1928, which aims to discover the truth. Word has reached London of a strange event high in the Austrian Alps. A monitoring station in Geneva (?) detected an enormous power surge centred close to a small town named Kruezberg. At the same time, one of the Society's assets in the region was travelling in the area and reported a huge shockwave rippling through the town - windows shattered and lightning forked the sky.
+> Darius Fisher, already an experienced explorer. a member of the Society and eager for adventure, leaves London on the express train bound for Dover. He is booked on the overnight boat to Ostend and from there he takes the overnight train bound for the Tyrolean capital of Innsbruck. From there he heads east into the Tyrolean Alps, to the small town of Kruezberg.
 
 # Scenes
 `button-scene`
